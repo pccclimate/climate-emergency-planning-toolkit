@@ -66,10 +66,13 @@ export default function Home() {
                     This interactive toolkit will help applicants understand what is required to comply with Plymouth and South West Devon Climate Emergency Planning Statement (adopted October 2022).
                 </Typography>
                 <Typography textAlign='center'mb={2}>
-                    The requirements set out are in addition to the policies in the Plymouth and South West Devon Joint Local Plan (JLP), such as policy DEV32 Delivering local carbon development, together with guidance in the Supplementary Planning Document (SPD).
+                    The requirements should be read alongside the policies in the Plymouth and South West Devon Joint Local Plan (JLP), such as policy DEV32 Delivering low carbon development, together with guidance in the Supplementary Planning Document (SPD).
                 </Typography>
-                <Typography textAlign='center'>
-                    To view the requirements, please click on the images below for the relevant development type.
+                <Typography textAlign='center'mb={2}>
+                    The requirements are split into measures to reduce carbon emissions (Mitigation Measures) and measures to help us live with the impacts of climate change (Adaptation Measures).
+                 </Typography>
+                 <Typography textAlign='center'>
+                    To view the requirements, please click on the images below.
                 </Typography>
             </Box>
             <Box sx={{ display: 'flex', justifyContent: 'center', alignItems: 'start', flexWrap: 'wrap'}}>
