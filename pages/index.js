@@ -72,8 +72,8 @@ export default function Home() {
                 </Typography>
                 <Typography textAlign='center'mb={2}>
                     The requirements are split into measures to reduce carbon emissions (Mitigation Measures) and measures to help us live with the impacts of climate change (Adaptation Measures).
-                 </Typography>
-                 <Typography textAlign='center'>
+                </Typography>
+                <Typography textAlign='center'>
                     To view the requirements, please click on the images below.
                 </Typography>
                 <Typography textAlign='center'>
