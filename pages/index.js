@@ -63,7 +63,7 @@ export default function Home() {
                 >
             <Box sx={{ px: 2, py: 8 }}>
                 <Typography textAlign='center' mb={2}>
-                    This interactive toolkit will help applicants understand what is required to comply with Plymouth and South West Devon Climate Emergency Planning Statement (adopted September 2022).
+                    This interactive toolkit will help applicants understand what is required to comply with Plymouth and South West Devon Climate Emergency Planning Statement (adopted October 2022).
                 </Typography>
                 <Typography textAlign='center'mb={2}>
                     The requirements set out are in addition to the policies in the Plymouth and South West Devon Joint Local Plan (JLP), such as policy DEV32 Delivering local carbon development, together with guidance in the Supplementary Planning Document (SPD).
