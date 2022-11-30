@@ -63,8 +63,8 @@ export default function Home() {
                 >
             <Box sx={{ px: 2, py: 8 }}>
                 <Typography textAlign='center' mb={2}>
-                    This interactive toolkit will help applicants understand what is required to comply with Plymouth and South West Devon Climate Emergency Planning Statement (adopted October 2022). A full pdf version is available to read on our 
-<a href=" https://www.plymouth.gov.uk/climate-emergency-planning-policy-and-guidance"> climate emergency planning policy and guidance </a> page.
+                    This interactive toolkit will help applicants understand what is required to comply with Plymouth and South West Devon Climate Emergency Planning Statement (adopted October 2022).  A full pdf version is available to read on our 
+                    <a href=" https://www.plymouth.gov.uk/climate-emergency-planning-policy-and-guidance"> climate emergency planning policy and guidance </a> page.
 
                 </Typography>
                 <Typography textAlign='center'mb={2}>
@@ -76,6 +76,11 @@ export default function Home() {
                  <Typography textAlign='center'>
                     To view the requirements, please click on the images below.
                 </Typography>
+                <Typography textAlign='center'>
+                    A link to the pdf version is also available on our 
+                    <a href=" https://www.plymouth.gov.uk/climate-emergency-planning-policy-and-guidance"> climate emergency planning policy and guidance </a> page.
+                </Typography>
+
             </Box>
             <Box sx={{ display: 'flex', justifyContent: 'center', alignItems: 'start', flexWrap: 'wrap'}}>
                 {links.map(({title, text, img, link}) => (
