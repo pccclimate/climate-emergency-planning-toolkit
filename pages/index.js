@@ -63,7 +63,7 @@ export default function Home() {
                 >
             <Box sx={{ px: 2, py: 8 }}>
                 <Typography textAlign='center' mb={2}>
-                    This interactive toolkit will help applicants understand what is required to comply with Plymouth and South West Devon Climate Emergency Planning Statement (adopted October 2022).  A full pdf version is available to read on our 
+                    This interactive toolkit will help applicants understand what is required to comply with Plymouth and South West Devon Climate Emergency Planning Statement (adopted November 2022).  A full pdf version is available to read on our 
                     <a href=" https://www.plymouth.gov.uk/climate-emergency-planning-policy-and-guidance"> climate emergency planning policy and guidance </a> page.
 
                 </Typography>
@@ -77,7 +77,7 @@ export default function Home() {
                     To view the requirements, please click on the images below.
                 </Typography>
                 <Typography textAlign='center'>
-                    A link to the pdf version is also available on our 
+                    Further information and links to the compliance form and other useful information is available on our 
                     <a href=" https://www.plymouth.gov.uk/climate-emergency-planning-policy-and-guidance"> climate emergency planning policy and guidance </a> page.
                 </Typography>
 
