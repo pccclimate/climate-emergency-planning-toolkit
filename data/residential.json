@@ -119,7 +119,7 @@
     "title": "Demolition and rebuild",
     "introSummary": "The following requirement applies to new builds. There are no requirements for extensions.",
     "introText": [
-      "The JLP policies Dev31 and DEV32.1 advocate reuse, recycling and resource minimisation through the development process. In 2019, the Architects Journal launched their RetroFirst campaign, which seeks to ensure that our existing buildings in the UK are only demolished and replaced as a last resort, and where retrofitting is proven to be not technically feasible. However, we recognise that there are some circumstances when demolition may be necessary."
+      "The JLP policies DEV31 and DEV32.1 advocate reuse, recycling and resource minimisation through the development process. In 2019, the Architects Journal launched their RetroFirst campaign, which seeks to ensure that our existing buildings in the UK are only demolished and replaced as a last resort, and where retrofitting is proven to be not technically feasible. However, we recognise that there are some circumstances when demolition may be necessary."
     ],
     "require": [
       "Priority will be given to the reuse and retrofitting of buildings. Where an existing building is proposed to be demolished and rebuilt, the net overall carbon cost of the project should be offset within 25 years through carbon savings achieved by operational use of the replacement building. ",
@@ -139,11 +139,11 @@
       {
         "text": "1. The building is structurally unsafe and is in a condition that cannot be safely remediated as part of a comprehensive retrofit; or,"
       },
-      {
+      {        
         "text": "2. The demolition and rebuild will result in significant social and environmental benefits, such as large-scale regeneration, and affordable-housing led development proposals"
       },
       {
-        "text": "((T x floorspace) x 25) – (D x floorspace) x 25)) = more than or equal to the net embodied carbon of original and new structure."
+        "text": "The calculation we will apply is ((T x floorspace) x 25) – (D x floorspace) x 25)) = more than or equal to the net embodied carbon of original and new structure."
       },
       {
         "text": "Architects Journal RetroFirst",
